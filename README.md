@@ -11,7 +11,7 @@
 
 ## I’m currently learning ...
 
-![shields](https://img.shields.io/badge/Front--End-JavaScript-green)  ![shields](https://img.shields.io/badge/frontend-React-critical)  ![shields](https://img.shields.io/badge/Front--End-BootStrap-green) 
+![shields](https://img.shields.io/badge/Front--End-JavaScript-green)  ![shields](https://img.shields.io/badge/Frontend-React-critical)  ![shields](https://img.shields.io/badge/Front--End-BootStrap-green) 
 
 
 ## 📫 How to reach me: ...
