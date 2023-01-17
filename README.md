@@ -6,7 +6,7 @@
 
 
 
-![shields](https://img.shields.io/badge/Front--End-HTML-brightgreen)  ![shields](https://img.shields.io/badge/Front--End-CSS-brightgreen) ![shields](https://img.shields.io/badge/Front--End-JavaScript-green) ![shields](https://img.shields.io/badge/Front--End-BootStrap-green)
+![shields](https://img.shields.io/badge/Front--End-HTML-brightgreen)  ![shields](https://img.shields.io/badge/Front--End-CSS-brightgreen) ![shields](https://img.shields.io/badge/Front--End-JavaScript-green) ![shields](https://img.shields.io/badge/Front--End-BootStrap-green) ![shields](https://img.shields.io/badge/Front--End-ReactJS-green)
 
 
 ## I’m currently learning ...
