@@ -10,8 +10,7 @@
 
 
 ## I’m currently learning ...
-
-![shields](https://img.shields.io/badge/Front--End-JavaScript-green)  ![shields](https://img.shields.io/badge/Front--End-React-green)   ![shields](https://img.shields.io/badge/Programming-C%23-green)
+![shields](https://img.shields.io/badge/Programming-C%23-green)
 
 
 ## 📫 How to reach me: ...
