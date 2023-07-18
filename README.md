@@ -26,5 +26,7 @@
 
 ## 📫 How to reach me: ...
 
-You can contact me on [LinkedIn](https://www.linkedin.com/in/ryansingleton3/) or email at ryanbsingleton3@gmail.com. 
+You can contact me on <a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp; or email at ryanbsingleton3@gmail.com. 
 -->
